@@ -5,6 +5,7 @@
 // @description  Recaptcha Solver in Browser | Automatically solves Recaptcha in browser
 // @author       DαијѕCode
 // @match        *://*/recaptcha/*
+// @icon         https://i.ibb.co/41fR37D/Pasted-20240708-111239-preview-rev-1.png
 // @connect      engageub.pythonanywhere.com
 // @connect      engageub1.pythonanywhere.com
 // @grant        GM_xmlhttpRequest
